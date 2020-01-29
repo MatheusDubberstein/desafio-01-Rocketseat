@@ -12,7 +12,7 @@ usando o **NPM**:
 
 Usando o **YARN**:
 
-`yarn install`
+`yarn`
 
 ## Rodando o projeto
 
